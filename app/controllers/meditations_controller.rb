@@ -5,7 +5,7 @@ class MeditationsController < ApplicationController
         if !token
             render json: { error: "Not authorized!" }, status: :unauthorized
         else
-            secret = "TOP SECRET"
+            secret = ENV['SECRET_KEY_BASE']
             begin 
             payload = JWT.decode(token, secret).first
                 @user = User.find(payload["user_id"])
