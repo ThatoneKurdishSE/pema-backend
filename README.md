@@ -1,4 +1,4 @@
-# 𑁍 P E M A 𑁍
+                                                               # 𑁍 P E M A 𑁍
 
 𑁍 Pema is a multilingual guided meditation mobile application. Keep reading to learn more about the application and how to run it on your machine!
 
