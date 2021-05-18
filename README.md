@@ -1,23 +1,61 @@
-# README
+# README Pema
+# About the application:
 
-Pema's mission:
+* Pema's mission:
 
-To make mindfulness practices like meditations + journaling accessible to different
-people across different communities.
+    To make mindfulness practices like meditations + journaling accessible to different
+    people across different communities.
 
-The goal is to have the application running in English, Arabic, and Kurdish.
+    The goal is to have the application running in English, Arabic, and Kurdish.
 
-There will be guided meditations in the three languages + in future versions journaling tools + prompts.
+    There will be guided meditations in the three languages + in future versions journaling tools + prompts.
 
-The backend is built using Ruby on Rails and the frontend is built using React Native.
+    This was initially my capstone project, however I am deeply passionate about this application + would like to keep working at it.
 
-This was initially my capstone project, however I am deeply passionate about this application + would like to keep working at it.
+# Techs used:
+
+- Ruby on Rails:
+    - Authentication, which includes:
+        - Creating a new user using:
+            i. Name
+            ii. Username
+            iii. Email
+            iv. Encrypted password
+        - Ability to  authenticate already established users.
+    - Email, username, and name validations.
+- Graphql as a gem:
+    - Using GET to retrieve all user data by name, username, and email!
+    - Working with Mutations to create new user profiles using inputs!
 
 
-Things you may want to cover:
+# Running the application:
 
-* Ruby version - 2.6.6
+- Fork and clone this repo
+- Run bundle install
+- Run Rails s-or Rails server in your terminal.
+- Test out the project on Postman for the RoR features.
+- Test out the project on Graphiql(Pronounced 'Graphical' yes very cute name, I know!) for the Graphql features.
+- Endpoints using Ruby on Rails: POST.
+- Endpoints using Graphql: GET and POST.
 
-* System dependencies - Run bundle install
 
-# pema-backend-
+# Tech version:
+ 
+ - Ruby version - 2.6.6
+ - GraphQL version - 1.12.9 
+
+# Future features:
+ 
+ - Tests using Rspec!
+ - More linguistic/accessibility features.
+ - Polyglot-collaborations.
+
+# Contact
+ 
+ - Let's connect on Linkedin!
+ - Follow me on Github!
+ - Denver Devs slack-space!
+ 
+
+# Frontend link repo:
+[https://github.com/ThatoneKurdishSE/pema-frontend]
