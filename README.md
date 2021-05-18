@@ -41,7 +41,7 @@
 
 # Tech version:
  
- - Ruby version - 2.6.6
+ - Ruby version - 2.6.3
  - GraphQL version - 1.12.9 
 
 # Future features:
