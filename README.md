@@ -26,7 +26,7 @@
     - Email, username, and name validations.
 - Graphql as a gem:
     - Using GET to retrieve all user data by name, username, and email!
-    - Working with Mutations to create new user profiles using inputs!
+    - Using POST and working with Mutations to create new user profiles using inputs!
 
 
 # 𑁍 Running the application 𑁍
