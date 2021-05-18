@@ -1,19 +1,19 @@
-# P E M A 
+# 𑁍 P E M A 𑁍
 
-Pema is a multilingual guided meditation mobile application. Keep reading to learn more about the application and how to run it on your machine!
+𑁍 Pema is a multilingual guided meditation mobile application. Keep reading to learn more about the application and how to run it on your machine!
 
-* Pema's mission:
+* 𑁍 Pema's mission:
 
-    To make mindfulness practices like meditations + journaling accessible to different
+   𑁍 To make mindfulness practices like meditations + journaling accessible to different
     people across different communities.
 
-    The goal is to have the application running in English, Arabic, and Kurdish.
+   𑁍 Meditations are in English, Arabic, and Kurdish!
 
-    There will be guided meditations in the three languages + in future versions journaling tools + prompts.
+   𑁍 There will be guided meditations in the three languages + in future versions journaling tools + prompts.
 
-    This was initially my capstone project, however I am deeply passionate about this application + would like to keep working at it.
+   𑁍 This was initially my capstone project, however I am deeply passionate about this application + would like to keep working at it.
 
-# Techs used:
+# 𑁍 Techs used:
 
 - Ruby on Rails:
     - Authentication, which includes:
@@ -29,7 +29,7 @@ Pema is a multilingual guided meditation mobile application. Keep reading to lea
     - Working with Mutations to create new user profiles using inputs!
 
 
-# Running the application:
+# 𑁍 Running the application:
 
 - Fork and clone this repo
 - Run bundle install
@@ -40,23 +40,23 @@ Pema is a multilingual guided meditation mobile application. Keep reading to lea
 - Endpoints using Graphql: GET and POST.
 
 
-# Tech version:
+# 𑁍 Tech version:
  
  - Ruby version - 2.6.3
  - GraphQL version - 1.12.9 
 
-# Future features:
+# 𑁍 Future features: 
  
  - Tests using Rspec!
  - More linguistic/accessibility features.
  - Polyglot-collaborations.
 
-# Contact
+# 𑁍 Contact info:
  
  - Let's connect on Linkedin!
  - Follow me on Github!
  - Denver Devs slack-space!
  
 
-# Frontend link repo:
+# 𑁍 Frontend link repo:
 [https://github.com/ThatoneKurdishSE/pema-frontend]
