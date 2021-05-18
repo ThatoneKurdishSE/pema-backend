@@ -18,10 +18,10 @@
 - Ruby on Rails:
     - Authentication, which includes:
         - Creating a new user using:
-            i. Name
-            ii. Username
-            iii. Email
-            iv. Encrypted password
+            *  Name
+            * Username
+            * Email
+            * Encrypted password
         - Ability to  authenticate already established users.
     - Email, username, and name validations.
 - Graphql as a gem:
